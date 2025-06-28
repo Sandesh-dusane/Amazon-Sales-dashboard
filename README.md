@@ -14,6 +14,23 @@ This interactive Power BI dashboard presents a comprehensive view of Amazon's gl
 •Top & Bottom 5 Products by profit.
 •Year filters to dynamically adjust the visual insights.
 
+# Tools Used
+1)Power BI – for data visualization & dashboard development
+
+2)Excel/CSV – as the data source
+
+3)DAX – for calculated measures and KPIs
+
+4)Power Query – for data transformation and cleaning
+
+
+# Insights
+•Consumer Segment accounts for over 51% of total sales.
+
+•USCA and Europe dominate the market with over 58% combined share.
+
+•Canon and Cisco products are the most profitable, while Bevis and Cubify show negative returns.
+
 
 
 
