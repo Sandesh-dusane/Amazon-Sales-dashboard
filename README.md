@@ -32,9 +32,11 @@ This interactive Power BI dashboard presents a comprehensive view of Amazon's gl
 •Canon and Cisco products are the most profitable, while Bevis and Cubify show negative returns.
 
 # Repository Structure
-•<a href="https://github.com/Sandesh-dusane/Amazon-Sales-dashboard/blob/main/amazon_sales_dataset.xlsx"> Data </a> 
-•
-•
+<a href="https://github.com/Sandesh-dusane/Amazon-Sales-dashboard/blob/main/amazon_sales_dataset.xlsx"> •Data </a> <br/>
+<a href=""> •Dashboard </a> <br/>
+<a href="https://github.com/Sandesh-dusane/Amazon-Sales-dashboard/blob/main/amazon_sales_dataset.xlsx"> •Image </a> <br/>
+
+
 
 # Conclusion
 This dashboard empowers Amazon's leadership to make data-driven decisions, optimize inventory, and focus on high-return segments and products.
