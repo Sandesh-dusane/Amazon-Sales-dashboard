@@ -33,8 +33,8 @@ This interactive Power BI dashboard presents a comprehensive view of Amazon's gl
 
 # Repository Structure
 <a href="https://github.com/Sandesh-dusane/Amazon-Sales-dashboard/blob/main/amazon_sales_dataset.xlsx"> •Data </a> <br/>
-<a href=""> •Dashboard </a> <br/>
-<a href="https://github.com/Sandesh-dusane/Amazon-Sales-dashboard/blob/main/amazon_sales_dataset.xlsx"> •Image </a> <br/>
+<a href="https://github.com/Sandesh-dusane/Amazon-Sales-dashboard/blob/main/amazonl_sales_dashboard.pbix "> •Dashboard </a> <br/>
+<a href="https://github.com/Sandesh-dusane/Amazon-Sales-dashboard/blob/main/amazon_dashboard_img.jpg "> •Image </a> <br/>
 
 
 
